@@ -2,3 +2,5 @@ discord.py
 flask
 uvicorn
 fastapi
+aiohttp_retry
+aiohttp
